@@ -43,6 +43,6 @@ Developed LSTM-based deep learning model using 20 years of historical data from 
     <i class="fas fa-eye" style="font-size: 20px; vertical-align: middle;"></i>
     
 </p>
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=ambrishpathakf&repo=data-science-portfolio&countColor=%237B1E7A)
 <!-- Include Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
