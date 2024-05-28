@@ -40,6 +40,9 @@ Developed LSTM-based deep learning model using 20 years of historical data from 
 <a href="https://www.leetcode.com/shrutikaraw22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrutikaraw22" height="30" width="40" /></a>
 </p>
 <p>
-    <img src="https://via.placeholder.com/20" alt="Eye Icon" style="vertical-align: middle;">
-    This page has been visited <img src="https://visitor-badge.glitch.me/badge?page_id=AmbrishPathak.data-science-portfolio" alt="visitor badge"/>
+    <i class="fas fa-eye" style="font-size: 20px; vertical-align: middle;"></i>
+    This page has been visited <img src="https://visitor-badge.glitch.me/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_REPOSITORY_NAME" alt="visitor badge"/>
 </p>
+
+<!-- Include Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
