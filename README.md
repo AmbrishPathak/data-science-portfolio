@@ -41,7 +41,7 @@ Developed LSTM-based deep learning model using 20 years of historical data from 
 </p>
 <p>
     <i class="fas fa-eye" style="font-size: 20px; vertical-align: middle;"></i>
-    This page has been visited <img src="https://visitor-badge.glitch.me/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_REPOSITORY_NAME" alt="visitor badge"/>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=AmbrishPathak.data-science-portfolio" alt="visitor badge"/>
 </p>
 
 <!-- Include Font Awesome -->
